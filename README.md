@@ -2,7 +2,7 @@
 - 📕 Actualmente estudio en la iut d'orleans.
 - 🌱 Actualemente me enfoco en aprender Angular y Astro
 
-# About me
+# Sobre mi
 Tengo una sólida experiencia en desarrollo web fullstack, donde trabajo tanto en el frontend como en el backend, también estoy abierto a explorar otros campos del desarrollo de software. Mi versatilidad y curiosidad me permiten adaptarme rápidamente a nuevos desafíos y tecnologías.
 
 # Tecnologías
