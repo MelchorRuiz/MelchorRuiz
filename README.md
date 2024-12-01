@@ -3,12 +3,11 @@
 - 🌱 Actualemente me enfoco en aprender Angular y Astro
 
 # About me
-Me apasiona la tecnología y la programación, y estoy constantemente actualizándome mediante cursos de informática. 
-Actualmente me enfoco en el desarrollo fullstack por la versatilidad que ofrece, permitiéndome trabajar eficazmente al mismo tiempo en el frontend y el backend. 
-En mi tiempo libre, disfruto explorando nuevos proyectos y desafíos.
+Tengo una sólida experiencia en desarrollo web fullstack, donde trabajo tanto en el frontend como en el backend, también estoy abierto a explorar otros campos del desarrollo de software. Mi versatilidad y curiosidad me permiten adaptarme rápidamente a nuevos desafíos y tecnologías.
 
 # Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
